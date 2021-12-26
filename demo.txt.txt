@@ -1,0 +1,39 @@
+*If Hr asks you to explain about your profile use this text*
+
+ I have experience in working with both manual and automation testing.. 
+
+5 months in manual and 2 yrs in automation(Relevant experience means automation experience, if Hr specifically asks manual and automation experience separately u can say *otherwise no need*) 
+
+
+
+For automation we used selenium webdriver tool with ja
+va language combination
+
+
+ I have experience in *automation frameworks* like Cucumber(BDD),TestNG,
+Junit,Datadriven for test data and Page Object Model for
+managing page objects.
+
+
+
+For source code management, we are using GIT tool
+
+For project management and defect tracking we work in JIRA
+
+Maven as build tool 
+
+And in Continuous integration and deployment (CI/CD)  tool I have some experience in Jenkins tool
+
+
+Agile scrum methodology or process I worked
+
+
+java vesion - jdk 1.8
+eclipse - oxygen
+
+
+
+united tecgno
+wipro
+
+
